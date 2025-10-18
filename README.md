@@ -22,6 +22,8 @@ npm install
 npm run dev  
  # запускает сервер на http://localhost:3001
 
+### Frontend
+```bash
 cd frontend
 npm install
 npm run dev  
